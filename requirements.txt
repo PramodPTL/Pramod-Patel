@@ -1,0 +1,20 @@
+flask==2.3.2
+#pickle==1.0
+numpy==1.24.3
+#os==0.1.4
+#json==2.0.9
+termcolor==2.3.0
+#scikit-learn==1.2.2 
+#smtplib==0.1.1  # Removed, part of Python's standard library
+#CurrentStats==1.0.0  # Custom package, version assumed
+#DiseasePred==1.0.0   # Custom package, version assumed
+openai==0.27.8
+
+# CurrentStats.py
+requests==2.31.0
+bs4==0.0.1
+#time==0.1.2  # Hypothetical, as `time` is part of Python's standard library
+scikit-learn==0.22.1
+# DiseasePred.py
+#pickle==1.0
+pandas==2.0.1
